@@ -4,7 +4,7 @@
 - Over 60 suggestions from comments added, including over a dozen enemies, multiple bosses, a shop system with upgrades, items, and quests, and more
 
 
-## 🕹️ Controls
+##  Controls
 - A/Left arrow and D/Right arrow: rotate left/right
 - Mouse/Space: shoot
 - Plus or Minus: change cape flag
