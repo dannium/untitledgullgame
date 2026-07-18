@@ -1,4 +1,4 @@
-# untitled gull game
+# Untitled Gull Game
 
 - A tower defense-ish game where you have to protect your sandcastle from enemies
 - Over 60 suggestions from comments added, including over a dozen enemies, multiple bosses, a shop system with upgrades, items, and quests, and more
