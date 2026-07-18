@@ -84,7 +84,7 @@ public class talkin : MonoBehaviour
         {
             buttonQuests[i] = Random.Range(0, 5);
             GameObject.Find("Q" + (i+1)).GetComponent<TextMeshProUGUI>().text = questNames[buttonQuests[i]];
-            GameObject.Find("Qcost" + (i + 1)).GetComponent<TextMeshProUGUI>().text = "" + Mathf.RoundToInt(questAmounts[buttonQuests[i]]*PlayerPrefs.GetInt("cheeseVar"));
+            GameObject.Find("Qcost" + (i + 1)).GetComponent<TextMeshProUGUI>().text = "" + Mathf.RoundToInt(questAmounts[buttonQuests[i]] * upgradeAmounts[3][PlayerPrefs.GetInt("cheeseVar", 0)]);
         }
 
 
