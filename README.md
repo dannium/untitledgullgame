@@ -5,8 +5,8 @@
 
 ## 🕹️ Controls
 - A/Left arrow and D/Right arrow: rotate left/right
-- Mouse/space: shoot
-- + or -: change cape flag
+- Mouse/Space: shoot
+- Plus or Minus: change cape flag
 - E and Q (in shop): switch shops/skip dialouge
 - Q (in game): summons William Howard Taft
 - G: pickle appears on screen
